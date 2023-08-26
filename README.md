@@ -1,10 +1,10 @@
-# components
-  Header : 페이지 상단
-  TodoEditor : 할 일 생성
-  TodoList : 할 일 렌더링
-  DoneList : 완료한 일 렌더링
-  TodoItem : 할 일들
-  DoneItem : 완료한 일들
+# components  
+Header : 페이지 상단  
+TodoEditor : 할 일 생성  
+TodoList : 할 일 렌더링  
+DoneList : 완료한 일 렌더링  
+TodoItem : 할 일들  
+DoneItem : 완료한 일들
 
 
 # Getting Started with Create React App
