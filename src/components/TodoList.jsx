@@ -17,7 +17,7 @@ function TodoList({ todo, onComplete, onDeleteTodo }) {
   };
   return (
     <div className='TodoList'>
-      <h4>Todo List🌱</h4>
+      <h4>Todo List🤓</h4>
       <input
         value={search}
         onChange={onChangeSearch}

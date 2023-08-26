@@ -17,7 +17,7 @@ function DoneList({ done, onCancel, onDeleteDone }) {
   };
   return (
     <div className='DoneList'>
-      <h4>Done List🌱</h4>
+      <h4>Done List😎</h4>
       <input
         value={search}
         onChange={onChangeSearch}
